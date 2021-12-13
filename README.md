@@ -1,4 +1,4 @@
-[![Hookind's GitHub stats](https://github-readme-stats.vercel.app/api?username=hookind)](https://github.com/hookind)
+[![Hookind's GitHub stats](https://github-readme-stats.vercel.app/api?username=hookind&show_icons=true)](https://github.com/hookind)
 
 
 <!--
