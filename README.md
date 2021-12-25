@@ -14,9 +14,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hookind&show_icons=true&count_private=true&layout=compact&theme=default">
   </a>
   <br/>
-  <a href="https://wakatime.com/@hookind" title="Wakatime Stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hookind&layout=compact">
-  </a>
   <br/>
   <a href="https://github.com/hookind" title="Most Used Languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hookind&layout=compact&count_private=true&theme=default">
