@@ -1,22 +1,13 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hookind&color=brightgreen">
-</p>
 <h3 align="center">👋 Hello! I'm hookind.</h3>
 <p align="center">
   <a href="https://hookind.github.io">Blog</a> •
   <a href="https://github.com/hookind">GitHub</a>
 </p>
 
-<h3 align="center">:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
 
 <p align="center">
   <a href="https://github.com/hookind" title="Hookind's GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hookind&show_icons=true&count_private=true&layout=compact&theme=default">
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/hookind" title="Most Used Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hookind&layout=compact&count_private=true&theme=default">
   </a>
 </p>
 
