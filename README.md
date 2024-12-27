@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm hookind.</h3>
 <p align="center">
-  <a href="https://hookind.space">Blog</a> •
-  <a href="https://github.com/hookind">GitHub</a>
+  <a href="https://hookind.space" target="_blank">Blog</a> •
+  <a href="https://github.com/hookind" target="_blank">GitHub</a>
 </p>
 
 
