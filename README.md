@@ -1,14 +1,7 @@
 <h3 align="center">👋 Hello! I'm hookind.</h3>
 <p align="center">
-  <a href="https://hookind.space" target="_blank">Blog</a> •
+  <a href="https://blog.hookind.space" target="_blank">Blog</a> •
   <a href="https://github.com/hookind" target="_blank">GitHub</a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/hookind" title="Hookind's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hookind&show_icons=true&count_private=true&layout=compact&theme=default">
-  </a>
 </p>
 
 <!--
